@@ -93,7 +93,7 @@ h2 {
 .hero {
   max-width: 900px;
   margin: 0 auto;
-  padding: 120px 24px 90px;
+  padding: 120px 24px 120px;
   text-align: center;
 }
 
@@ -123,11 +123,11 @@ h2 {
 .tagline-alt { text-align: center; margin-top: 24px; margin-bottom: 0; }
 
 .coming-soon {
-  font-size: 11px;
-  letter-spacing: 4px;
+  font-size: 18px;
+  letter-spacing: 6px;
   text-transform: uppercase;
   color: var(--espresso);
-  margin: -16px 0 0;
+  margin: -12px 0 0;
 }
 
 .btn {
@@ -244,7 +244,7 @@ h2 {
 .social {
   max-width: 900px;
   margin: 0 auto;
-  padding: 90px 24px 110px;
+  padding: 120px 24px 110px;
 }
 
 .social-grid {
