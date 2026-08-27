@@ -122,6 +122,14 @@ h2 {
 
 .tagline-alt { text-align: center; margin-top: 24px; margin-bottom: 0; }
 
+.coming-soon {
+  font-size: 11px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: var(--espresso);
+  margin: -16px 0 0;
+}
+
 .btn {
   display: inline-block;
   padding: 14px 36px;
